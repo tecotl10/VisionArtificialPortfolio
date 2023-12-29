@@ -1,1 +1,3 @@
-# VisionArtificialPortfolio
+# Marlon Tecotl's Computer Vision Projects Portfolio
+
+Welcome to my portfolio, a collection of standout projects in the field of computer vision. In this space, I share my works completed during my professional career and master's studies, covering everything from deep learning to advanced image processing. My aim is to apply and demonstrate my skills in solving complex challenges in the realm of computer vision.
